@@ -6,7 +6,7 @@ For an **entry-level Python position**, especially for jobs like **Junior Python
 - Variables, Data Types (int, float, str, list, dict, tuple, set)
 - Arithmetic operators (`+`, `-`, `*`, `/`, `//`, `%`, `**`), comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`), logical operators (`and`, `or`, `not`), and assignment operators (`=`, `+=`, `-=`, etc.).
 - Control Flow: Master conditional statements (`if`, `elif`, `else`) and loops (`for`, `while`). Understand how to use `break` and `continue` within loops.
-- Functions: defining and calling, `*args`, `**kwargs`
+- Functions: defining and calling with parameters and return values. Understand the concept of scope (local vs. global variables). `*args`, `**kwargs`
 - Error Handling: `try-except`, `finally`
 - Input/Output (file reading and writing)
 
@@ -22,8 +22,9 @@ For an **entry-level Python position**, especially for jobs like **Junior Python
 ---
 
 ### 3. **Data Structures and Algorithms (DSA) Basics**
-- Lists, Stacks, Queues, Sets, Dictionaries
-- String manipulation
+- Lists and Tuples: Understand how to manipulate lists (indexing, slicing, appending, inserting, deleting, sorting) and tuples.
+- Dictionaries: Know how to work with key-value pairs, accessing values, adding/removing items, and iterating through dictionaries.
+- Sets: Understand set operations like union, intersection, difference.
 - Searching and Sorting Algorithms (basic ones: linear search, binary search, bubble sort, etc.)
 - Problem solving on platforms like LeetCode (easy level)
 
@@ -32,14 +33,18 @@ For an **entry-level Python position**, especially for jobs like **Junior Python
 ### 4. **Python Libraries**
 - `collections` (e.g., `Counter`, `defaultdict`)
 - `math`, `random`
-- `datetime`
+- `datetime`,  `os`
 - If it's a data-focused role: basic of `pandas` and `numpy`
+- NumPy: For numerical operations and working with arrays. Understand basic array creation, indexing, and simple mathematical operations.
+- Pandas: For data manipulation and analysis. Be familiar with Series and DataFrames, basic data selection, and filtering.
+- Requests: For making HTTP requests to interact with web services. Understand basic GET and POST requests.
 
 ---
 
 ### 5. **Working with Files and JSON**
 - Reading/writing `.txt` and `.csv` files
 - Working with JSON data using `json` library
+- Learn how to open, read from, and write to files. Understand different file modes (`'r'`, `'w'`, `'a'`, `'r+'`, `'w+'`). Use `with` statements for proper file management.
 
 ---
 
@@ -52,6 +57,7 @@ For an **entry-level Python position**, especially for jobs like **Junior Python
 ### 7. **Basic Version Control (Git)**
 - Git commands: `clone`, `add`, `commit`, `push`, `pull`
 - Writing meaningful commit messages
+- Understand the basic Git workflow: creating repositories, staging changes, committing, branching, and merging. Familiarity with platforms like GitHub, GitLab, or Bitbucket is a plus.
 
 ---
 
