@@ -5,7 +5,7 @@ For an **entry-level Python position**, especially for jobs like **Junior Python
 ### 1. **Python Fundamentals**
 - Variables, Data Types (int, float, str, list, dict, tuple, set)
 - Arithmetic operators (`+`, `-`, `*`, `/`, `//`, `%`, `**`), comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`), logical operators (`and`, `or`, `not`), and assignment operators (`=`, `+=`, `-=`, etc.).
-- Control Structures: `if-else`, loops (`for`, `while`)
+- Control Flow: Master conditional statements (`if`, `elif`, `else`) and loops (`for`, `while`). Understand how to use `break` and `continue` within loops.
 - Functions: defining and calling, `*args`, `**kwargs`
 - Error Handling: `try-except`, `finally`
 - Input/Output (file reading and writing)
