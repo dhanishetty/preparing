@@ -67,13 +67,20 @@ For an **entry-level Python position**, especially for jobs like **Junior Python
 
 ---
 
-### 9. **Understanding of Basic Web Concepts (Optional but Good)**
+### 9. **Databases (Basic Interaction):**
+- Understand the fundamentals of relational databases (like SQL).
+- Know how to connect to a database (e.g., SQLite) using Python libraries (like `sqlite3`) and perform basic CRUD (Create, Read, Update, Delete) operations.
+
+---
+
+### 10. **Understanding of Basic Web Concepts (Optional but Good)**
+- Flask or Django (Basics): Familiarity with a microframework like Flask or a more comprehensive framework like Django can be advantageous. Understand basic routing, request handling, and rendering simple web pages.
 - HTTP Requests: `requests` library
 - Basics of APIs (if the role involves any backend or API consumption)
 
 ---
 
-### 10. **Soft Skills (often overlooked but important)**
+### 11. **Soft Skills (often overlooked but important)**
 - Clear code commenting and documentation
 - Understanding and following coding standards (e.g., PEP8)
 - Good communication to explain code and logic during interviews
