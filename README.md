@@ -94,5 +94,77 @@ For an **entry-level Python position**, especially for jobs like **Junior Python
 
 ---
 
-Would you like me to also suggest a **sample 30-day study plan** if you're preparing quickly for an interview? 🚀  
-It can make this more actionable!
+Awesome! Here's a **30-Day Study Plan** tailored for preparing for an **entry-level Python position**:
+
+---
+# 🗓️ 30-Day Python Study Plan
+
+## **Week 1: Core Python Basics**
+| Day | Topics |
+|:---|:---|
+| 1 | Python Syntax, Variables, Data Types |
+| 2 | Lists, Tuples, Sets, Dictionaries |
+| 3 | Conditionals (`if`, `elif`, `else`) |
+| 4 | Loops (`for`, `while`, `break`, `continue`) |
+| 5 | Functions (`def`, return, `*args`, `**kwargs`) |
+| 6 | String Manipulation (slicing, formatting, `split`, `join`) |
+| 7 | Mini Project: Build a simple calculator or a to-do list app |
+
+---
+
+## **Week 2: Deeper Python Concepts**
+| Day | Topics |
+|:---|:---|
+| 8 | File Handling (`open()`, read, write, append) |
+| 9 | JSON Handling (`json` library) |
+| 10 | Error Handling (`try-except-else-finally`) |
+| 11 | Object-Oriented Programming: Classes, Objects |
+| 12 | Inheritance, Polymorphism, Encapsulation |
+| 13 | Modules and Packages (`import`, creating your own module) |
+| 14 | Mini Project: Build a contact book app (use classes + file storage) |
+
+---
+
+## **Week 3: DSA (Data Structures & Algorithms) + Libraries**
+| Day | Topics |
+|:---|:---|
+| 15 | Lists and Arrays: Searching and Sorting (Bubble, Selection Sort) |
+| 16 | Stacks and Queues (can use `list` and `collections.deque`) |
+| 17 | Dictionaries and Sets (Hashmaps, Hashsets) |
+| 18 | Basic Recursion Problems |
+| 19 | Learn `collections` module (Counter, defaultdict, namedtuple) |
+| 20 | Learn basics of `math`, `random`, `datetime` modules |
+| 21 | Solve 10 easy problems on LeetCode or HackerRank |
+
+---
+
+## **Week 4: Practical + Interview Prep**
+| Day | Topics |
+|:---|:---|
+| 22 | Virtual Environment Setup, `pip` usage |
+| 23 | Basic `git` commands (`init`, `clone`, `add`, `commit`, `push`) |
+| 24 | APIs using `requests` library (GET/POST requests) |
+| 25 | Introduction to `unittest` module for testing |
+| 26 | Introduction to `pandas` (load CSV, basic data manipulation) |
+| 27 | Practice Coding — Mock Interview: 5 problems |
+| 28 | Build Final Project: Small Web Scraper, Resume Parser, or API Client |
+| 29 | Review Common Interview Questions (HR + Tech) |
+| 30 | Mock Interview Practice + Relax + Review your portfolio/resume |
+
+---
+
+# 🛠️ Mini Projects Suggestions
+- **Week 1**: Calculator App
+- **Week 2**: Contact Book
+- **Week 3**: Basic Problem Solving
+- **Week 4**: API Client or Resume Parser
+
+# 📚 Resources (Free)
+- **Practice**: [LeetCode Easy](https://leetcode.com/problemset/all/?difficulty=EASY), [HackerRank Python](https://www.hackerrank.com/domains/tutorials/10-days-of-python)
+- **Learning**: [Python Docs](https://docs.python.org/3/), [w3schools Python](https://www.w3schools.com/python/)
+- **Git**: [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+
+---
+
+Would you also want me to suggest a **final project idea** that you can show in your interviews (takes ~2-3 days extra, but very impressive)? 🚀  
+It can be a game-changer for standing out! 🎯
