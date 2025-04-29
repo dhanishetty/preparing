@@ -94,7 +94,7 @@ For an **entry-level Python position**, especially for jobs like **Junior Python
 
 ---
 
-Awesome! Here's a **30-Day Study Plan** tailored for preparing for an **entry-level Python position**:
+**30-Day Study Plan** tailored for preparing for an **entry-level Python position**:
 
 ---
 # 🗓️ 30-Day Python Study Plan
